@@ -20,11 +20,13 @@
 | 成员 | 主页 |  工作内容  |  说明  |
 | ---- |----| ----------|----|
 | <img src="https://avatars1.githubusercontent.com/u/1617384?s=32&v=4" style="border-radius:50%; "/>  Dean | [Github](https://github.com/deancn) | 负责整体架构设计, 资源协调等  |    |
+| <img src="https://avatars1.githubusercontent.com/u/3772217?s=32&v=4" style="border-radius:50%; "/>  Jie949 | [Github](https://github.com/Jie949) | 会议主持、项目进度、产品体验  |    |
 | <img src="https://avatars1.githubusercontent.com/u/33213215?s=32&v=4" style="border-radius:50%; "/>  isColt | [Github](https://github.com/iscolt) | |    |
 | <img src="https://avatars1.githubusercontent.com/u/3772217?s=32&v=4" style="border-radius:50%; "/>  AcKevin | [Github](https://github.com/Ac-Kevin) | |    |
-| <img src="https://avatars1.githubusercontent.com/u/41041388?s=32&v=4" style="border-radius:50%; "/>  chuanguoyuxi | [Github](https://github.com/chuanguoyuxi) | |    |
-| <img src="https://avatars1.githubusercontent.com/u/25641088?s=32&v=4" style="border-radius:50%; "/>  nonespace | [Github](https://github.com/nonespace ) | |    |
-| <img src="https://avatars1.githubusercontent.com/u/30176276?s=32&v=4" style="border-radius:50%; "/>  vieangry | [Github](https://github.com/vieangry) | |    |
+| <img src="https://avatars1.githubusercontent.com/u/41041388?s=32&v=4" style="border-radius:50%; "/>  chuanguoyuxi | [Github](https://github.com/chuanguoyuxi) | CSS |    |
+| <img src="https://avatars1.githubusercontent.com/u/25641088?s=32&v=4" style="border-radius:50%; "/>  nonespace | [Github](https://github.com/nonespace ) | |  Client app  |
+| <img src="https://avatars1.githubusercontent.com/u/30176276?s=32&v=4" style="border-radius:50%; "/>  vieangry | [Github](https://github.com/vieangry) | Fresh |    |
+| <img src="https://avatars1.githubusercontent.com/u/3772217?s=32&v=4" style="border-radius:50%; "/>  whxcode | [Github](https://github.com/whxcode) | CSS |    |
 | <img src="https://avatars1.githubusercontent.com/u/3772217?s=32&v=4" style="border-radius:50%; "/>  You |      | Join us, come on!  |    | |
 
 
